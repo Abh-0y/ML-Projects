@@ -79,18 +79,20 @@ The best performance was achieved using a Voting Classifier, combining:
 
 **Performance:**
 - Precision: 1.00
-- Accuracy: ~0.976
+- Accuracy: ~0.979
 
 ---
 
 # Tech Stack
-•	Python
-•	Pandas
-•	NumPy
-•	Matplotlib
-•	Seaborn
-•	NLTK
-•	Scikit-learn
-•	XGBoost
-•	WordCloud
+- Python
+- Pandas
+- NumPy
+- NLTK
+- Matplotlib
+- Seaborn
+- WordCloud
+- XGBoost
+- Scikit-learn
+
+
 
