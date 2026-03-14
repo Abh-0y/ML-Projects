@@ -76,6 +76,7 @@ The best performance was achieved using a Voting Classifier, combining:
 - Support Vector Machine
 - Extra Trees Classifier
 - Random Forest Classifier
+
 **Performance:**
 - Precision: 1.00
 - Accuracy: ~0.976
